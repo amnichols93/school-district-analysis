@@ -3,7 +3,7 @@ The analysis below is to determine how the Thomas High School 9th graders's scor
 
 ## School Size
 ### Including Thomas High School's 9th grade scores
-![Size1]("Scores%20by%20Size%20with%20THS%209th%20Graders.png")
+![Size1](Scores%20by%20Size%20with%20THS%209th%20Graders.png)
 ### Excluding Thomas High School's 9th grade scores
 ![Size2]("Scores by Size without THS 9th Graders.png")
 ### Analysis
